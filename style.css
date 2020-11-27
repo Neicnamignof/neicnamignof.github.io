@@ -1,0 +1,60 @@
+body{
+    font-family: "Source code pro", Calibri, serif;
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    width: 100%;
+    background-color: grey;
+}
+nav ul{
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+nav li{
+    list-style-type: none;
+    float: left;
+}
+nav a{
+    display: inline-block;
+    text-decoration: none;
+    padding: 20px 30px;
+    color: white;
+}
+.menu-index:hover{
+    border-top: 5px solid rgb(75, 75, 75);
+    background-color: grey;
+}
+.menu-gaming:hover{
+    border-top: 5px solid rgb(75, 75, 75);
+    background-color: grey;
+}
+.menu-technology:hover{
+    border-top: 5px solid rgb(75, 75, 75);
+    background-color: grey;
+}
+.menu-cinema:hover{
+    border-top: 5px solid rgb(75, 75, 75);
+    background-color: grey;
+}
+nav li:hover a{
+    padding: 15px 30px 20px 30px    
+}
+.table{
+    display: table;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+}
+section{
+    margin-top: 0px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 20px;
+    padding: 0px;
+}
+p{
+    font-size: 18px;
+}
