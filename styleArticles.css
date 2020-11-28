@@ -59,19 +59,11 @@ p{
     font-size: 18px;
 }
 img{
-    width: 600px;
-    margin-left: 0px;
-    margin-right: 0px;
+    width: 750px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 h2{
-    font-size: 24px;
-    text-align: left;
-}
-a{
-    color: black;
-    
-}
-.presentation{
-    margin-left: 150px;
-    margin-right: 150px;
+    font-size: 32px;
+    text-align: center;
 }
